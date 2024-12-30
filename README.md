@@ -17,3 +17,7 @@ Analyze rental rates to identify trends and the profitability of various pricing
 
 ### Operational Efficiency:
 Help track and manage movie inventory effectively. Highlight gaps in the inventory and optimize stock levels.
+
+## Tools & Library Used
+[<img src="./Code_outputs/mysql_logo.png" alt="myql-logo" width="100"/>](https://www.mysql.com/) &nbsp;
+
